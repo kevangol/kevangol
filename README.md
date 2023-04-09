@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevangol" alt="kevangol" /></a> </p>
 
-- 🔭 I’m currently working on **Super UI components for React**
+- 🔭 I’m currently working on **MOVIE WATCH LATER EXAMPLE WITH REDUX TOOL KIT AND REACT WITH VITE SETUP**
 
 - 🌱 I’m currently learning **How to fix stacky in mind**
 
